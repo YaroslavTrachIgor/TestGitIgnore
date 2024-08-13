@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            Text("Main branch")
+            Text("Development branch")
                 .font(.caption)
                 .foregroundStyle(.gray)
         }
